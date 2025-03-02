@@ -17,10 +17,9 @@ OSINT Username Tracker adalah alat **Open Source Intelligence (OSINT)** yang mem
 
 ### **1. Clone Repository**
 ->bash
-git clone https://github.com/R00tXNemesis/OSINT-Username-Tracker.git
-cd OSINT-Username-Tracker
+git clone https://github.com/R00tXNemesis/AI-10.git
 
-2. Instal Dependensi
+### **2. Instal Dependensi**
 
 pkg update && pkg upgrade
 pkg install python
